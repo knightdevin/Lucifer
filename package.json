@@ -1,0 +1,19 @@
+{
+  "name": "Lucifer",
+  "version": "1.0.0",
+  "description": "A project for practicing with Phaser and using it to create a simple game",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Devin Knight",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.24.1"
+  },
+  "devDependencies": {
+    "raw-loader": "^0.5.1",
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.11.0"
+  }
+}
