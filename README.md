@@ -1,3 +1,20 @@
+
+
+
+----->>>>>>>>> CURRENT PROJECT NOT WORKING / WEBPACK ISSUE
+
+
+
+
+
+
+
+
+
+
+
+
+
 --------------------------------- DRAFT INSTRUCTIONS BELOW ---------------------------------
 
 1. 🐑 After cloning to your local machine, install the dependencies: `npm install`
